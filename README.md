@@ -1,14 +1,15 @@
 # Fraud Detection: an explainable XGBoost classifier
 
+<p align="center">
+  <img src="docs/images/hero.webp" width="100%" alt="Fraud Detection: explainable XGBoost classifier. The tuned model caught 496 of 644 fraud cases against 59 for the baseline, with 11 false alerts across 166,072 legitimate test transactions. Artwork from the portfolio, a concept illustration.">
+</p>
+
 **Catching the fraud a baseline misses, and showing an analyst why each transaction was flagged.**
 
 MSc Business Analytics team project (module MI6228, Maynooth University) · Python · XGBoost · SHAP · Gradio
 
 [**Live dashboard**](https://fraud-detection-xgboost.netlify.app/) · [Portfolio](https://basant-kumar-portfoli.netlify.app/) · [GitHub profile](https://github.com/basant-kumarr)
 
-<p align="center">
-  <img src="docs/images/fraud-dashboard.webp" width="100%" alt="Screenshot of the project dashboard: two grids of 644 squares, one per fraud case in the test set. The logistic regression grid has 59 green squares for caught cases; the tuned XGBoost grid has 496.">
-</p>
 
 ---
 
@@ -49,6 +50,12 @@ Data cleaning, the baseline model and evaluation were shared team work.
 
 <p align="center">
   <img src="docs/images/results.webp" width="100%" alt="Results. Bars show 59 of 644 fraud cases caught by logistic regression and 496 of 644 by tuned XGBoost. Confusion matrix for tuned XGBoost: 496 true positives, 148 false negatives, 11 false positives, 166,061 true negatives.">
+</p>
+
+**From the live dashboard:** each square is one of the 644 fraud cases in the test set, green when the model caught it.
+
+<p align="center">
+  <img src="docs/images/fraud-dashboard.webp" width="100%" alt="Screenshot of the project dashboard: two grids of 644 squares, one per fraud case in the test set. The logistic regression grid has 59 green squares for caught cases; the tuned XGBoost grid has 496.">
 </p>
 
 | On the hold-out set (n = 166,716) | Logistic regression baseline | Tuned XGBoost |
