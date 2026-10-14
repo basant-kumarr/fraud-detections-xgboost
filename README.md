@@ -8,7 +8,7 @@
 
 MSc Business Analytics team project (module MI6228, Maynooth University) · Python · XGBoost · SHAP · Gradio
 
-[**Live dashboard**](https://fraud-detection-xgboost.netlify.app/) · [Portfolio](https://basant-kumar-portfoli.netlify.app/) · [GitHub profile](https://github.com/basant-kumarr)
+[**Live dashboard**](https://fraud-detection-xgboost.netlify.app/) (its metric table predates the [reconciliation note](#results)) · [Portfolio](https://basant-kumar-portfoli.netlify.app/) · [GitHub profile](https://github.com/basant-kumarr)
 
 
 ---
