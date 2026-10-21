@@ -8,7 +8,7 @@
 
 MSc Business Analytics team project (module MI6228, Maynooth University) · Python · XGBoost · SHAP · Gradio
 
-[**Live dashboard**](https://fraud-detection-xgboost.netlify.app/) (its metric table predates the [reconciliation note](#results)) · [Portfolio](https://basant-kumar-portfoli.netlify.app/) · [GitHub profile](https://github.com/basant-kumarr)
+[**Live dashboard**](https://fraud-detection-xgboost.netlify.app/) (its metric table predates the [reconciliation note](#results)) · [Portfolio](https://basant-kumar.netlify.app/) · [GitHub profile](https://github.com/basant-kumarr)
 
 
 ---
@@ -115,4 +115,4 @@ The training notebook and the Gradio app are not published in this repository.
 
 ---
 
-**Basant Kumar** · MSc Business Analytics, Maynooth University · [Portfolio](https://basant-kumar-portfoli.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/basantsingh-/) · [GitHub](https://github.com/basant-kumarr)
+**Basant Kumar** · MSc Business Analytics, Maynooth University · [Portfolio](https://basant-kumar.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/basantsingh-/) · [GitHub](https://github.com/basant-kumarr)
